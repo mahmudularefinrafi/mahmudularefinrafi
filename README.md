@@ -1,16 +1,16 @@
 # Hi there, I'm Mahmudul Arefin Rafi 👋
 
-### Engineering Student | Developer | Tech Enthusiast
+### CSE Student | Software Developer | Cyber Security Enthusiast
 
-I'm an engineering student passionate about technology, programming, and building useful digital solutions. I enjoy learning new technologies and turning ideas into practical projects.
+I'm a Computer Science and Engineering student interested in cyber security, software development, and building useful digital solutions. I'm currently learning cyber security fundamentals and improving my technical skills through practical projects.
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Engineering Student
+* 🎓 Computer Science and Engineering Student at Uttara University
 * 💻 Interested in Web Development & Software Engineering
-* 🔐 Interested in Cyber Security and learning its fundamentals
+* 🔐 Cyber Security enthusiast, currently learning security fundamentals
 * 🌱 Currently learning and improving my programming skills
 * 🔨 Building practical projects and experimenting with new ideas
 * 📚 Always learning, building, and improving
