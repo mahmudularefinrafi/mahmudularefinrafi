@@ -10,7 +10,7 @@ I'm a Computer Science and Engineering student at Uttara University, Bangladesh.
 - 🛠️ Building projects to strengthen my practical skills
 - 🌱 Always learning, experimenting, and improving
 
-🌐 **Portfolio:** [View my portfolio](https://mahmudularefinrafi.github.io/portfolio/)  
+🌐 **Portfolio:** [View my portfolio](https://mahmudularefinrafi.iam.bd/)  
 💼 **GitHub:** [@mahmudularefinrafi](https://github.com/mahmudularefinrafi)
 
 ---
@@ -57,7 +57,7 @@ I'm a Computer Science and Engineering student at Uttara University, Bangladesh.
 
 ## 🔗 Connect
 
-- **Portfolio:** [mahmudularefinrafi.github.io/portfolio](https://mahmudularefinrafi.github.io/portfolio/)
+- **Portfolio:** [mahmudularefinrafi.github.io/portfolio](https://mahmudularefinrafi.iam.bd/)
 - **GitHub:** [github.com/mahmudularefinrafi](https://github.com/mahmudularefinrafi)
 - **LinkedIn:** [linkedin.com/in/mahmudularefinrafi](https://www.linkedin.com/in/mahmudularefinrafi/)
 - **Facebook:** [facebook.com/mahmudularefinrafi.ics](https://www.facebook.com/mahmudularefinrafi.ics)
