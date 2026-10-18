@@ -1,96 +1,75 @@
-# Hi there, I'm Mahmudul Arefin Rafi 👋
+# Hi, I'm Mahmudul Arefin Rafi 👋
 
-### CSE Student | Software Developer | Cyber Security Enthusiast
+### CSE Student | Aspiring Software Developer | Cyber Security Enthusiast
 
-I'm a Computer Science and Engineering student interested in cyber security, software development, and building useful digital solutions. I'm currently learning cyber security fundamentals and improving my technical skills through practical projects.
+I'm a Computer Science and Engineering student at Uttara University, Bangladesh. I enjoy building practical software projects, exploring web technologies, and learning the fundamentals of cyber security.
 
----
+- 🎓 Studying Computer Science and Engineering
+- 💻 Interested in software development and web technologies
+- 🔐 Learning cyber security fundamentals and secure computing
+- 🛠️ Building projects to strengthen my practical skills
+- 🌱 Always learning, experimenting, and improving
 
-## 🚀 About Me
-
-* 🎓 Computer Science and Engineering Student at Uttara University
-* 💻 Interested in Web Development & Software Engineering
-* 🔐 Cyber Security enthusiast, currently learning security fundamentals
-* 🌱 Currently learning and improving my programming skills
-* 🔨 Building practical projects and experimenting with new ideas
-* 📚 Always learning, building, and improving
+🌐 **Portfolio:** [View my portfolio](https://mahmudularefinrafi.github.io/portfolio/)  
+💼 **GitHub:** [@mahmudularefinrafi](https://github.com/mahmudularefinrafi)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages & Web
+**Languages & Web**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Tools
+**Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project                        | Description                                             |
-| ------------------------------ | ------------------------------------------------------- |
-| 📋 **My To-Do**                | A simple web application for managing daily tasks       |
-| 📚 **Study Planner**           | A study planning and task management application        |
-| 📝 **Online Class Note Saver** | A tool for saving and organizing online class notes     |
-| 📅 **Daily Planner**           | A practical application for organizing daily activities |
-| 📔 **Digital Diary**           | A personal digital diary application                    |
-| 💭 **Daily Quotes**            | A simple daily inspirational quotes project             |
+| Project | What it does |
+| --- | --- |
+| [Portfolio](https://github.com/mahmudularefinrafi/portfolio) | Personal portfolio showcasing my background and projects |
+| [My To-Do](https://github.com/mahmudularefinrafi/my-to-do) | A simple task management application |
+| [Study Planner](https://github.com/mahmudularefinrafi/study-planner) | Helps organize study plans and tasks |
+| [Online Class Note Saver](https://github.com/mahmudularefinrafi/Online-Class-Note-Saver) | Saves and organizes online class notes |
+| [Daily Planner](https://github.com/mahmudularefinrafi/Daily-planner) | Organizes daily activities |
+| [Digital Diary](https://github.com/mahmudularefinrafi/Digital-Diary) | A personal digital diary project |
+| [Daily Quotes](https://github.com/mahmudularefinrafi/Daily-Quotes) | Displays daily inspirational quotes |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmudularefinrafi&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudularefinrafi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahmudularefinrafi&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmudularefinrafi&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudularefinrafi&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔗 Connect
 
-<p align="center">
-
-<a href="https://github.com/mahmudularefinrafi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/mahmudularefinrafi.ics">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mahmudularefinrafi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/mahmudul_arefin_rafi/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:mahmudularefinrafi@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- **Portfolio:** [mahmudularefinrafi.github.io/portfolio](https://mahmudularefinrafi.github.io/portfolio/)
+- **GitHub:** [github.com/mahmudularefinrafi](https://github.com/mahmudularefinrafi)
+- **LinkedIn:** [linkedin.com/in/mahmudularefinrafi](https://www.linkedin.com/in/mahmudularefinrafi/)
+- **Facebook:** [facebook.com/mahmudularefinrafi.ics](https://www.facebook.com/mahmudularefinrafi.ics)
+- **Instagram:** [@mahmudul_arefin_rafi](https://www.instagram.com/mahmudul_arefin_rafi/)
+- **Email:** [mahmudularefinrafi@gmail.com](mailto:mahmudularefinrafi@gmail.com)
 
 ---
 
-## 📈 My Goal
+## 🎯 Current Goal
 
-> Keep learning, keep building, and explore secure, useful technology.
+Build useful software, strengthen my programming fundamentals, and keep learning cyber security through ethical, hands-on practice.
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+Thanks for visiting my profile! ⭐
