@@ -10,6 +10,7 @@ I'm an engineering student passionate about technology, programming, and buildin
 
 * 🎓 Engineering Student
 * 💻 Interested in Web Development & Software Engineering
+* 🔐 Interested in Cyber Security and learning its fundamentals
 * 🌱 Currently learning and improving my programming skills
 * 🔨 Building practical projects and experimenting with new ideas
 * 📚 Always learning, building, and improving
@@ -88,7 +89,7 @@ I'm an engineering student passionate about technology, programming, and buildin
 
 ## 📈 My Goal
 
-> Keep learning, keep building, and turn ideas into useful solutions.
+> Keep learning, keep building, and explore secure, useful technology.
 
 ---
 
